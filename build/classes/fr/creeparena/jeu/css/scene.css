@@ -1,0 +1,9 @@
+.labelOrRouge {
+	-fx-font: bold 20pt "Arial";
+	-fx-text-fill: red;
+}
+
+.labelOrVert {
+	-fx-font: bold 20pt "Arial";
+	-fx-text-fill: green;
+}
